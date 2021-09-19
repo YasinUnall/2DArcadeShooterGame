@@ -1,9 +1,6 @@
 # Game-Project
 
-Bu oyunun çok güzel bir oyun olmadığını bilsemde oyun yapım işine pek uygun olmayan bir ortam üstünde bu oyunu cmd
-üstünde çalışması üzere kodladım. Bu şekilde nereye varılabileceğini, zorluklarını ve bu zorlukları aşma şekillerini
-bana öğreten bir proje oldu bu.
-
+Command prompt ekranında çalışan basit bir oyundur. Retro 2D arcade shooter oyunu olarak tasarlanmıştır. Oyunun amacı ekranın sağından gelen düşmanları kontrol edilen uzay gemisinin mermileri ile vurarak hayatta kalma üzerine kuruludur.
 
 Kullanılan Proglamlama Dili: C++
 
